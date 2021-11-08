@@ -18,12 +18,9 @@
     <ClCompile Include="OOP_Exam_Prep1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Stack.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Stack.h">
+    <ClInclude Include="Stack.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
